@@ -6,6 +6,12 @@
 @import "font-awesome-sprockets";
 @import "font-awesome";
 
+.alert-notice {
+  color: #8a6d3b;
+  background-color: #fcf8e3;
+  border-color: #faebcc;
+}
+
 .navbar {
 
   background: -webkit-linear-gradient(90deg, #485563 10%, #29323c 90%); /* Chrome 10+, Saf5.1+ */
